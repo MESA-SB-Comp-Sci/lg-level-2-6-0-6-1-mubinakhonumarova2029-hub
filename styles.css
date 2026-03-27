@@ -2,3 +2,29 @@
     box-sizing: border-box;
 }
 
+h1 {
+    color:white;
+    background-color: pink;
+}
+
+html {
+    background-color: grey;
+}
+
+header{
+    color:yellow;
+}
+#class { 
+    color:greenyellow;
+}
+ul{
+    color:lightblue;
+}
+
+footer{ 
+    color:lightpink;
+}
+
+p{
+    color:greenyellow;
+}
