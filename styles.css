@@ -28,3 +28,22 @@ footer{
 p{
     color:greenyellow;
 }
+#heading-style-1{
+    color: white;
+    background-color: pink;
+}
+.p1 {
+    color:yellow
+}
+.p3 {
+    color: skyblue;
+}
+.p2 {
+    color: greenyellow;
+}
+.p4 {
+    color: white;
+}
+.border1 {
+    color: aqua;
+}
